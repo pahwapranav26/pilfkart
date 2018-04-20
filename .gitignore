@@ -1,4 +1,6 @@
-_STORE
+# https://www.codingforentrepreneurs.com/blog/django-virtualenv-python-gitignore-file/
+
+.DS_STORE
 
 # Virtualenv related
 bin/
